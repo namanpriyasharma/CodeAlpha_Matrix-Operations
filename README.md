@@ -3,4 +3,4 @@ This is my first task of Internship in C Programming  at code alpha and my task 
 ● Matrix Addition 
 ● Matrix Multiplication 
 ● Transpose 
-Useing functions and 2D arrays for better modularity.
+Using functions and 2D arrays for better modularity.
